@@ -1,9 +1,9 @@
 readme_content = """<div align="center">
 
-# 💻 C Programming Assignments & Homework
+# 💻 structure-programming-language-sectional Assignments & Homework
 
 **Student Name:** Farhan Bin Asad  
-**Student ID:** [Your Student ID Here]  
+**Student ID:** CSE 036 08972  
 **Course:** Computer Science & Engineering  
 
 ---
@@ -25,16 +25,5 @@ This repository serves as an archive for all my laboratory assignments, homework
 
 ```text
 .
-├── 01_Basics/
-│   ├── hello_world.c
-│   └── data_types.c
-├── 02_Control_Flow/
-│   ├── conditionals.c
-│   └── loops.c
-├── 03_Functions/
-│   └── recursion.c
-├── 04_Arrays_and_Strings/
-│   └── array_sorting.c
-├── 05_Pointers_and_Memory/
-│   └── dynamic_allocation.c
+├── 1.nameprint.c
 └── README.md
